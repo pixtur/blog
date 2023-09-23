@@ -1,6 +1,8 @@
-In the creative world, tools aplenty we find,
 
-*VVVV, TouchDesigner, Cables, Tooll3, Notch in kind.<br>
+![patch-battle-logo](https://github.com/pixtur/blog/assets/1732545/ba1a60ce-7c54-4357-8add-0b44d147a9eb)
+
+*In the creative world, tools aplenty we find,<br>
+VVVV, TouchDesigner, Cables, Tooll3, Notch in kind.<br>
 In this grand competition, their talents will enthrall,<br>
 Let the contest decide the greatest of them all.<br>*
 
@@ -18,3 +20,5 @@ Only a fair competition can determine the victor. Thus, each team will designate
   - "**Most beautiful**" — Audience applause and cheers will determine this category's winner.
   - "**Most elegant**" — Judges will consider factors like the efficiency of operations and the cleverness of the idea.
 - The scores from each round will be tallied, and the ultimate champion will be announced.
+-
+- 
