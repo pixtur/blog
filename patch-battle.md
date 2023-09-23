@@ -12,6 +12,7 @@ At the Chaos Communication Camp, Rosi introduced us to the concept of a "Patch B
 
 Only a fair competition can determine the victor. Thus, each team will designate a champion to step into the arena and vie for glory. Here are the rules:
 
+## The rules
 - The champions must come armed with their preferred hardware, ideally a notebook equipped with an HDMI output.
 - The battle will consist of four rounds, each lasting 10 minutes.
 - Each round will commence with a random prompt, such as "Circle and microphone" or "Cube Tunnel," challenging the champions' creativity.
@@ -20,5 +21,8 @@ Only a fair competition can determine the victor. Thus, each team will designate
   - "**Most beautiful**" — Audience applause and cheers will determine this category's winner.
   - "**Most elegant**" — Judges will consider factors like the efficiency of operations and the cleverness of the idea.
 - The scores from each round will be tallied, and the ultimate champion will be announced.
--
-- 
+
+## The date
+
+The battle is planned for Friday 7pm at Sep. 29th 2023 at the [Deadline Party Berlin](https://deadline.untergrund.net/2023/) 
+in the party is at ORWO Haus in Berlin Marzahn. 
