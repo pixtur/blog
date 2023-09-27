@@ -24,5 +24,5 @@ Only a fair competition can determine the victor. Thus, each team will designate
 
 ## The date
 
-The battle is planned for Friday 7pm at Sep. 29th 2023 at the [Deadline Party Berlin](https://deadline.untergrund.net/2023/) 
+The battle is planned for Saturday, Sep. 30th 2023 6pm at the [Deadline Party Berlin](https://deadline.untergrund.net/2023/events) 
 in the party is at ORWO Haus in Berlin Marzahn. 
